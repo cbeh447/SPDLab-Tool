@@ -1,4 +1,4 @@
-# SPDLab-Tool
+# SPDLab - A Process Synthesis Tool for WWTPs
 This repository contains Matlab code of the SPDLab tool. This tool aims to get a hands on experience on wastewater treatment process synthesize and design.
 
 
