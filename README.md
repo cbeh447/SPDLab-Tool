@@ -2,7 +2,7 @@
 This repository contains Matlab code of the SPDLab tool. This tool aims to get a hands on experience on wastewater treatment process synthesize and design.
 
 
-Instructions to run the tool:
+INSTRUCTIONs to run the tool:
 
 1. First down load the entire folder from git hub and save it in your local computer.
 2. Copy the file run_me.m file and paste it in Code&Data folder.
